@@ -1,2 +1,2 @@
-# Task3_BharatIntern
+# Task3_Netflix-Homepage
 A simple website having similar homepage that of Netflix using using HTML and CSS.
